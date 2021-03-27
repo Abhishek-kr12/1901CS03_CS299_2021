@@ -21,10 +21,9 @@
   
   <hr>
   
-  ##Tools used for project development:
+  #Tools used for project development:
   <ul>
   <li><p><b>Python ( 3.7 version)</b></p>
-  <li>
   <li><p><b>Flask</b></p></li>
   </ul>
   
