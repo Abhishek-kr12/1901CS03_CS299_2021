@@ -8,8 +8,7 @@
  _**Model used for the web app:**_
  <br>
  <br>
- <li><b> Iris Flower Detector model =</b>  [model]
-  (https://github.com/Abhishek-kr12/1901CS03_CS299_2021/edit/master/iris.py)
+ <li><b> Iris Flower Detector model =</b> https://github.com/Abhishek-kr12/1901CS03_CS299_2021/edit/master/iris.py
  <br>
  
  <hr>
@@ -17,7 +16,7 @@
   _**Dataset used:**_
   <br>
   <br>
-  <li><b>Iris model : </b> [iris.data]
+  <li><b>Iris model : </b>  [iris.data]
   (https://github.com/Abhishek-kr12/1901CS03_CS299_2021/edit/master/iris.data)
   <br>
   
@@ -32,7 +31,7 @@
   <hr>
   
   <p> The whole project is deployed on Heroku Cloud.
-  <p> Link to access web app is:
+  <p> Link to access web app is :
 https://iris-flower-detector-ml.herokuapp.com/ </p>
   <p> Thank you!</p>
   
