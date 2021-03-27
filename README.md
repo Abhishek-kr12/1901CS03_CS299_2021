@@ -8,7 +8,7 @@
  _**Model used for the web app:**_
  <br>
  <br>
- -<b> Iris Flower Detector model =</b>  [model](https://github.com/Abhishek-kr12/1901CS03_CS299_2021/edit/master/iris.py)
+ <li><b> Iris Flower Detector model =</b>  [model](https://github.com/Abhishek-kr12/1901CS03_CS299_2021/edit/master/iris.py)
  <br>
  
  <hr>
@@ -16,12 +16,12 @@
   _**Dataset used:**_
   <br>
   <br>
-  -<b>Iris model : </b> [iris.data](https://github.com/Abhishek-kr12/1901CS03_CS299_2021/edit/master/iris.data)
+  <li><b>Iris model : </b> [iris.data](https://github.com/Abhishek-kr12/1901CS03_CS299_2021/edit/master/iris.data)
   <br>
   
   <hr>
   
-  #Tools used for project development:
+  Tools used for project development:
   <ul>
   <li><p><b>Python ( 3.7 version)</b></p>
   <li><p><b>Flask</b></p></li>
