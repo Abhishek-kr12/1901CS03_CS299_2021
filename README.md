@@ -16,8 +16,7 @@
   _**Dataset used:**_
   <br>
   <br>
-  <li><b>Iris model : </b>  [iris.data]
-  (https://github.com/Abhishek-kr12/1901CS03_CS299_2021/edit/master/iris.data)
+  <li><b>Iris model : </b> https://github.com/Abhishek-kr12/1901CS03_CS299_2021/edit/master/iris.data
   <br>
   
   <hr>
