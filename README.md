@@ -23,7 +23,7 @@
   
   Tools used for project development:
   <ul>
-  <li><p><b>Python ( 3.7 version)</b></p>
+  <li><p><b>Python ( 3.9.5 version)</b></p>
   <li><p><b>Flask</b></p></li>
   </ul>
   
@@ -31,7 +31,7 @@
   
   <p> The whole project is deployed on Heroku Cloud.
   <p> Link to access web app is :
-https://iris-flower-detector-ml.herokuapp.com/ </p>
+https://iris-flower-detector.herokuapp.com/ </p>
   <p> Thank you!</p>
   
   
