@@ -1,0 +1,31 @@
+<html>
+
+<body style="background-color:rgb(201, 184, 193);">
+
+    <center>
+
+        <h1>  Prediction according to inputs: </h1>
+    
+    {%if data == 0%}
+    <h1>Iris-setosa</h1>  
+    <img src='static\setosa.jpg'>  
+    {%endif%}
+
+    {%if data == 1%}
+    <h1>Iris-versicolor</h1>
+    <img src='static\verci.jpg'>
+    {%endif%}
+    
+    {%if data == 2%}
+    <h1>Iris-virginica</h1>
+    <img src='static\virgi.jpg'>
+    {%endif%}
+
+        <br><br>
+    <a href='/'>go back to home page</a>
+
+    </center>
+
+</body>
+
+</html>

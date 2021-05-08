@@ -1,0 +1,25 @@
+
+
+
+<html>
+
+    <body style="background-color:rgb(201, 184, 193);">
+
+        <center>
+
+            <h1>SIMPLE WEB APP FOR DETECTING IRIS FLOWER </h1><br>
+        
+        <form method="POST", action="{{url_for('home')}}">
+           <b> Sepal Length(cm) :  <input type="text", name='a', placeholder="Enter", required autocomplete="off"> <br><br>
+            Sepal Width(cm) :  <input type="text", name='b', placeholder="Enter", required autocomplete="off"> <br><br>
+            Petal Length(cm) :  <input type="text", name='c', placeholder="Enter", required autocomplete="off"> <br><br>
+            Petal Width(cm) : <input type="text", name='d', placeholder="Enter", required autocomplete="off"> <br><br><br></b>
+            <input type="submit" , value='Predict' >
+        </form>
+
+        <img src='static\flower1.jpg' alt="flower">
+        
+    </center>
+
+    </body>
+</html>
